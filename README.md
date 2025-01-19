@@ -1,5 +1,9 @@
 # Git and GitHub
-From git hub i commit this change
+From git hub i commit this change (
+  git remote add upstream (URL of the branch )
+  git pull upstream main(or any other branch)
+)
+From vs code i commit / push this change
 A Beginner-Friendly Guide to Git and GitHub ✨🌟
 ## Introduction
 
